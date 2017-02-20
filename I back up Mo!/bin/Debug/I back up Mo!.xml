@@ -1,0 +1,128 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+IbackupMo!
+</name>
+</assembly>
+<members>
+<member name="P:I_back_up_Mo_.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:I_back_up_Mo_.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:I_back_up_Mo_.My.Resources.Resources.abax">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:I_back_up_Mo_.My.Resources.Resources.abax1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:I_back_up_Mo_.My.Resources.Resources.about_developer">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:I_back_up_Mo_.My.Resources.Resources.appbar_archive">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:I_back_up_Mo_.My.Resources.Resources.appbar_book_open_information">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:I_back_up_Mo_.My.Resources.Resources.appbar_box_layered">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:I_back_up_Mo_.My.Resources.Resources.appbar_cabinet_files">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:I_back_up_Mo_.My.Resources.Resources.appbar_close">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:I_back_up_Mo_.My.Resources.Resources.appbar_eye">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:I_back_up_Mo_.My.Resources.Resources.appbar_group">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:I_back_up_Mo_.My.Resources.Resources.appbar_home">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:I_back_up_Mo_.My.Resources.Resources.appbar_inbox">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:I_back_up_Mo_.My.Resources.Resources.appbar_information_circle">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:I_back_up_Mo_.My.Resources.Resources.appbar_minus">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:I_back_up_Mo_.My.Resources.Resources.appbar_video">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:I_back_up_Mo_.My.Resources.Resources.bax2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:I_back_up_Mo_.My.Resources.Resources.BAXFINAL">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:I_back_up_Mo_.My.Resources.Resources.BAXFINAL1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:I_back_up_Mo_.My.Resources.Resources.BAXFINAL2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:I_back_up_Mo_.My.Resources.Resources.compress">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:I_back_up_Mo_.My.Resources.Resources.final___Copy">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:I_back_up_Mo_.My.Resources.Resources.jjj">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:I_back_up_Mo_.My.Resources.Resources.logo_lang">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:I_back_up_Mo_.My.Resources.Resources.pamore">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:I_back_up_Mo_.My.Resources.Resources.REC1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:I_back_up_Mo_.My.Resources.Resources.REC11">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:I_back_up_Mo_.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
