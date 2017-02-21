@@ -36,3 +36,25 @@ C:\Users\ann\Desktop\back up\aira\I back up Mo!\I back up Mo!\obj\Debug\Interop.
 C:\Users\ann\Desktop\back up\aira\I back up Mo!\I back up Mo!\obj\Debug\I back up Mo!.vbproj.ResolveComReference.cache
 C:\Users\ann\Desktop\back up\aira\I back up Mo!\I back up Mo!\bin\Debug\DotNetZip.dll
 C:\Users\ann\Desktop\back up\aira\I back up Mo!\I back up Mo!\bin\Debug\DotNetZip.xml
+C:\Users\ann\Desktop\back up\aira\I back up Mo! - Copy\I back up Mo!\bin\Debug\I back up Mo!.exe.config
+C:\Users\ann\Desktop\back up\aira\I back up Mo! - Copy\I back up Mo!\obj\Debug\Interop.Shell32.dll
+C:\Users\ann\Desktop\back up\aira\I back up Mo! - Copy\I back up Mo!\obj\Debug\I back up Mo!.vbproj.ResolveComReference.cache
+C:\Users\ann\Desktop\back up\aira\I back up Mo! - Copy\I back up Mo!\obj\Debug\I back up Mo!.exe
+C:\Users\ann\Desktop\back up\aira\I back up Mo! - Copy\I back up Mo!\obj\Debug\I back up Mo!.xml
+C:\Users\ann\Desktop\back up\aira\I back up Mo! - Copy\I back up Mo!\obj\Debug\I back up Mo!.pdb
+C:\Users\ann\Desktop\back up\aira\I back up Mo! - Copy\I back up Mo!\bin\Debug\I back up Mo!.exe
+C:\Users\ann\Desktop\back up\aira\I back up Mo! - Copy\I back up Mo!\bin\Debug\I back up Mo!.pdb
+C:\Users\ann\Desktop\back up\aira\I back up Mo! - Copy\I back up Mo!\bin\Debug\I back up Mo!.xml
+C:\Users\ann\Desktop\back up\aira\I back up Mo! - Copy\I back up Mo!\bin\Debug\DotNetZip.dll
+C:\Users\ann\Desktop\back up\aira\I back up Mo! - Copy\I back up Mo!\bin\Debug\GongShell.dll
+C:\Users\ann\Desktop\back up\aira\I back up Mo! - Copy\I back up Mo!\bin\Debug\My Project.Resources.Designer.vb.dll
+C:\Users\ann\Desktop\back up\aira\I back up Mo! - Copy\I back up Mo!\bin\Debug\DotNetZip.xml
+C:\Users\ann\Desktop\back up\aira\I back up Mo! - Copy\I back up Mo!\bin\Debug\GongShell.xml
+C:\Users\ann\Desktop\back up\aira\I back up Mo! - Copy\I back up Mo!\obj\Debug\I back up Mo!.vbprojResolveAssemblyReference.cache
+C:\Users\ann\Desktop\back up\aira\I back up Mo! - Copy\I back up Mo!\obj\Debug\I_back_up_Mo_.Form1.resources
+C:\Users\ann\Desktop\back up\aira\I back up Mo! - Copy\I back up Mo!\obj\Debug\I_back_up_Mo_.Form3.resources
+C:\Users\ann\Desktop\back up\aira\I back up Mo! - Copy\I back up Mo!\obj\Debug\I_back_up_Mo_.Form4.resources
+C:\Users\ann\Desktop\back up\aira\I back up Mo! - Copy\I back up Mo!\obj\Debug\I_back_up_Mo_.Form5.resources
+C:\Users\ann\Desktop\back up\aira\I back up Mo! - Copy\I back up Mo!\obj\Debug\I_back_up_Mo_.Resources.resources
+C:\Users\ann\Desktop\back up\aira\I back up Mo! - Copy\I back up Mo!\obj\Debug\I_back_up_Mo_.Form2.resources
+C:\Users\ann\Desktop\back up\aira\I back up Mo! - Copy\I back up Mo!\obj\Debug\I back up Mo!.vbproj.GenerateResource.Cache
